@@ -121,18 +121,19 @@ font-size: 22px;
 {
 	width: 7.0625rem;
 	padding-top: 15px;
+	border-top:  transparent 2px solid;
 }
 .bar-right
 {
    width: 3.9375rem;
    padding-top: 15px;
+   border-top:  transparent 2px solid;
 }
 /*permet de gérer le premier élément de la liste  */
 .liste-nav ul li:first-child
 {
 	text-align: start;
-	padding-right: 35px;
-	/* border: #000 solid; */
+	padding-right: 35px; 
 	width: 7.0625rem;
 	right: 400px;
 }
