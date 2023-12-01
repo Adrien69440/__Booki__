@@ -303,7 +303,7 @@ font-size: 22px;
 	font-weight: 700;
 }
 
-#button-filter
+.button-filter
 {
 	height: 3.125rem;
 	padding: 0.25rem 1.1875rem;
@@ -319,7 +319,7 @@ font-size: 22px;
 	font-size: 17px;
 }
 
-#button-filter:hover
+.button-filter:hover
 {
 	background-color: var(--blue-light, #deebff);
 }
@@ -954,7 +954,7 @@ ul,li
 		display: none;
 	}
 
-	#colonne
+	.colonne
 	{
 		width: 79%;
 		padding-right: 0px;
@@ -981,7 +981,7 @@ ul,li
 		margin: 1.25rem;
 	}
 
-	#button-filter
+	.button-filter
 	{
 		height: 3.125rem;
 		width: 95%;
