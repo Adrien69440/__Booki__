@@ -368,8 +368,8 @@ font-size: 22px;
 #tittle-hebergement
 {
 	margin: 1.88rem;
-	padding-top: 1, 88rem;
-	padding-bottom: 1, 88rem;
+	padding-top: 1.88rem;
+	padding-bottom: 1.88rem;
 }
 
 /* gère la disposition des élèments "cards" */
@@ -386,7 +386,7 @@ font-size: 22px;
 .card-hebergement
 {
 	display: flex;
-	max-width:250,33px;
+	max-width:250.33px;
 	max-height: 207.25px;
 	flex-direction: column;
 	border-radius: 20px;
@@ -742,8 +742,8 @@ ul,li
 	#tittle-hebergement
 	{
 		margin: 1.88rem;
-		padding-top: 1, 88rem;
-		padding-bottom: 1, 88rem;
+		padding-top: 1.88rem;
+		padding-bottom: 1.88rem;
 	}
 
 	img{
